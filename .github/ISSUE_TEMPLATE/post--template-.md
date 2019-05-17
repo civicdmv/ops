@@ -1,7 +1,7 @@
 ---
 name: Post (TEMPLATE)
 about: Blog post checklist
-title: ''
+title: Post (TEMPLATE)
 labels: Content
 assignees: ''
 
