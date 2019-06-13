@@ -10,6 +10,7 @@ assignees: ''
 [ ] Appoint a product owner (see [U.S. Digital Services Playbook - Play 6](https://playbook.cio.gov/#play6))
 [ ] Create new repo
 [ ] Add README ([example](https://github.com/civicdmv/dmv-website/blob/master/README.md))
+[ ] Add contributing file
 [ ] Create Slack channel (naming convention: #project-xyz / ex: #project-dig-standards
 [ ] Schedule recurring check-ins
 [ ] Document in [handbook projects page](https://civicdmv-handbook.readthedocs.io/en/latest/projects/) and [website] (https://civicdmv.org/)
