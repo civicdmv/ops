@@ -10,6 +10,7 @@ assignees: ''
 - [ ] Appoint a product owner (see [U.S. Digital Services Playbook - Play 6](https://playbook.cio.gov/#play6))
 - [ ] PO [request access to CivicDMV GitHub organization](https://github.com/civicdmv/ops/issues/new?assignees=lukefretwell&labels=&template=request-github-access.md&title=GitHub+access+request)
 - [ ] Create new repo from the [sample template](https://github.com/civicdmv/sample-project) ([help](https://help.github.com/en/articles/creating-a-repository-from-a-template))
+- [ ] Add repo description, website, topics
 - [ ] Create Slack channel (naming convention: #project-xyz / ex: #project-dig-standards
 - [ ] Update README
 - [ ] Schedule recurring check-ins
