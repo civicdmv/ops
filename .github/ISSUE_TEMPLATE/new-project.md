@@ -11,7 +11,8 @@ assignees: ''
 - [ ] PO [request access to CivicDMV GitHub organization](https://github.com/civicdmv/ops/issues/new?assignees=lukefretwell&labels=&template=request-github-access.md&title=GitHub+access+request)
 - [ ] Create new repo from the [sample template](https://github.com/civicdmv/sample-project) ([help](https://help.github.com/en/articles/creating-a-repository-from-a-template))
 - [ ] Add repo description, website, topics
-- [ ] Create Slack channel (naming convention: #project-xyz / ex: #project-dig-standards
+- [ ] Add/create collaborators/team ([help](https://help.github.com/en/articles/organizing-members-into-teams))
+- [ ] Set up project team / ex: #project-dig-standards
 - [ ] Update README
 - [ ] Schedule recurring check-ins
 - [ ] Document in [handbook projects page](https://civicdmv-handbook.readthedocs.io/en/latest/projects/) and [website] (https://civicdmv.org/)
