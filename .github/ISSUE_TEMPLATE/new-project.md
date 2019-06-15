@@ -9,7 +9,7 @@ assignees: ''
 
 - [ ] Appoint a product owner (see [U.S. Digital Services Playbook - Play 6](https://playbook.cio.gov/#play6))
 - [ ] PO [request access to CivicDMV GitHub organization](https://github.com/civicdmv/ops/issues/new?assignees=lukefretwell&labels=&template=request-github-access.md&title=GitHub+access+request)
-- [ ] Create new repo from the [sample template](https://github.com/civicdmv/sample-project) ([help](https://help.github.com/en/articles/creating-a-repository-from-a-template))
+- [ ] Create new repo from the [sample template](https://github.com/civicdmv/sample-project) ([help](https://help.github.com/en/articles/creating-a-repository-from-a-template)) - *make sure it's within the CivicDMV GitHub organization*
 - [ ] Add repo description, website, topics
 - [ ] Add/create collaborators/team ([help](https://help.github.com/en/articles/organizing-members-into-teams))
 - [ ] Set up project team / ex: #project-dig-standards
