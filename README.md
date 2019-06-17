@@ -13,7 +13,7 @@ Where we manage [CivicDMV](https://civicdmv.org) operations.
 
 ## Contribute
 
-See [Contributions](https://github.com/civicdmv/dmv-website/blob/master/contributing.md).
+See [Contributions](contributing.md).
 
 ## Product owner
 
